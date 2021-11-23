@@ -1,0 +1,10 @@
+Lomakin 21
+Petrov 19
+Galiulyn 10
+Tomashov 20
+Ivanov 30
+Martynov 18
+Semionov 22
+Kotlinskiy 5
+Poltavcev 23
+Travin 17
